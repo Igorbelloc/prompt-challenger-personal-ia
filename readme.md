@@ -121,3 +121,60 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+# Plano de Treino Personalizado
+
+## Informações do Usuário
+
+- **Nome:** Igor Bello Cordeiro
+- **Idade:** 34 anos
+- **Biotipo Corporal:** Endomorfo
+- **Dias Disponíveis para Treinar:** 3 dias por semana
+- **Tipo de Treino Preferido:** HIIT com treino de força
+- **Escolha de Exercício:** Treino de força
+
+## Plano de Treino Sugerido
+
+### Biotipo Corporal: Endomorfo
+- Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+### Dias de Treino: 3 dias por semana
+- **Tipo de Treino Sugerido:** Treino ABC
+
+### Tipo de Exercício: HIIT com Treino de Força
+- **HIIT (Treino Intervalado de Alta Intensidade):** Ótimo para queima de gordura.
+- **Treino de Força:** Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+
+## Estrutura do Treino
+
+### Dia 1: Treino de Força (Parte Superior)
+- Aquecimento: 10 minutos de cardio leve
+- Supino com Halteres: 3 séries de 12 repetições
+- Remada Curvada: 3 séries de 12 repetições
+- Desenvolvimento de Ombros: 3 séries de 12 repetições
+- Rosca Bíceps: 3 séries de 15 repetições
+- Tríceps Testa: 3 séries de 15 repetições
+- HIIT: 15 minutos (30 segundos de alta intensidade, 30 segundos de descanso)
+
+### Dia 2: Treino de Força (Parte Inferior)
+- Aquecimento: 10 minutos de cardio leve
+- Agachamento Livre: 3 séries de 12 repetições
+- Levantamento Terra: 3 séries de 12 repetições
+- Afundo com Halteres: 3 séries de 12 repetições (cada perna)
+- Elevação de Panturrilha: 3 séries de 15 repetições
+- HIIT: 15 minutos (30 segundos de alta intensidade, 30 segundos de descanso)
+
+### Dia 3: Treino de Força (Corpo Inteiro)
+- Aquecimento: 10 minutos de cardio leve
+- Supino Inclinado com Halteres: 3 séries de 12 repetições
+- Remada Unilateral: 3 séries de 12 repetições (cada lado)
+- Desenvolvimento Arnold: 3 séries de 12 repetições
+- Agachamento Búlgaro: 3 séries de 12 repetições (cada perna)
+- HIIT: 15 minutos (30 segundos de alta intensidade, 30 segundos de descanso)
+
+## Observações
+- **Aquecimento e Alongamento:** Sempre comece com um aquecimento adequado e termine com alongamentos para evitar lesões.
+- **Progressão:** Aumente gradualmente o peso e a intensidade dos exercícios conforme seu progresso.
+- **Descanso:** Garanta dias de descanso entre os treinos para recuperação muscular.
+
+Siga este plano de treino personalizado para alcançar seus objetivos de fitness de maneira eficaz e segura!
